@@ -66,7 +66,8 @@ This workshop will arm you with the knowledge to help debug your existing JavaSc
 
 ## Baseline
 Write a function that splits up a full name and returns a random number between 1-10 between the first and last name.
-- http://jsfiddle.net/todoubled/qaynT/
+- exercise: http://jsfiddle.net/todoubled/qaynT/
+- solution: http://jsfiddle.net/todoubled/VGLw8/
 
 ## #1
 Write a function that takes an email string argument in standard contact format (Todd Larsen <toddlar@gmail.com>)
@@ -77,14 +78,21 @@ and returns a user object with the following attributes:
 - random ID
 - creation timestamp
 - Gmail user: true || false
-
-solution: http://jsfiddle.net/todoubled/ybjRn/
+- exercise: http://jsfiddle.net
+- solution: http://jsfiddle.net/todoubled/ybjRn/
 
 
 ## #2
 Build a vertical accordian list that expands one panel at a time and add an 'expanded' class to the active panel when it's open.
-- see http://jsfiddle.net/todoubled/3Jr2f/
+- exercise: http://jsfiddle.net/todoubled/3Jr2f/
 - solution: http://jsfiddle.net/todoubled/RuBSp
+
+## #3
+Optimize the previous accordian exercise.
+
+## #4
+Build a contacts app.
+- https://github.com/benjreinhart/ContactsJS
 
 
 ## Recommended Resources
