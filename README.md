@@ -40,6 +40,10 @@ This workshop will arm you with the knowledge to help debug your existing JavaSc
 - capitalize the first character of each new phrase except the first phrase
 
 
+#### Callback
+- function to execute later
+
+
 
 # Syntax Legend
 
@@ -99,3 +103,4 @@ Build a contacts app.
 - [A Re-introduction to JavaScript](https://developer.mozilla.org/en/A_re-introduction_to_JavaScript)
 - [JavaScript Design Patterns](http://shichuan.github.com/javascript-patterns/)
 - [jQuery Fundamentals](http://jqfundamentals.com/)
+- [Prepare Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
