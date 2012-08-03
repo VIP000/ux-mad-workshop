@@ -104,3 +104,4 @@ Build a contacts app.
 - [JavaScript Design Patterns](http://shichuan.github.com/javascript-patterns/)
 - [jQuery Fundamentals](http://jqfundamentals.com/)
 - [Prepare Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
+- [Upgrade to Backbone.js](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/)
